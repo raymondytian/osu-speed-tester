@@ -1,6 +1,6 @@
 # osu-speed-tester
 
-Application to test osu! tapping speed. Available for Windows, MacOS, and Linux.
+Console application to test osu! tapping speed. Available for Windows, MacOS, and Linux.
 
 ## Instructions
 
